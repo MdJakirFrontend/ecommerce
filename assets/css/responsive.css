@@ -1,0 +1,328 @@
+@media (min-width: 767px) {
+  .rfproduct-details .product-sizedetails {
+    justify-content: start;
+  }
+}
+@media (min-width: 767px) {
+  .rfproduct-details {
+    padding-left: 50px;
+  }
+
+  .rfsummary-section .product-item-bottom {
+    height: 50px;
+    width: 50px;
+  }
+
+  .rfsizecontent-wrap {
+    padding: 50px 0;
+  }
+
+  .rfnav-wrap {
+    display: block;
+  }
+
+  .mobilemenu-wrapper {
+    display: none;
+  }
+
+  .mobile-topbar {
+    display: none;
+  }
+
+  .topbar {
+    display: block;
+  }
+}
+@media (min-width: 1024px) {
+  .rfsummary-section {
+    padding: 50px 0;
+  }
+
+  .warrfeaimg {
+    width: 80%;
+    margin: auto;
+  }
+
+  .warrenty-comments {
+    padding: 80px 0;
+  }
+
+  .warrenty-common-title h2 {
+    font-size: 36px;
+    line-height: 44px;
+  }
+
+  .warrenty-about {
+    padding: 80px 0;
+  }
+
+  .rfcontactndtcsec {
+    padding: 100px 0;
+  }
+
+  .rfoffer-section {
+    padding: 100px 0;
+  }
+
+  .sectitle {
+    margin-bottom: 40px;
+  }
+  .sectitle h2 {
+    font-size: 36px;
+    line-height: 44px;
+  }
+
+  .rfproduct-details .product-sizedetails {
+    justify-content: flex-start;
+  }
+
+  .rfsizecontent-wrap {
+    padding: 100px 0;
+  }
+
+  .rfproduct-details {
+    padding-left: 80px;
+  }
+  .rfproduct-details .product-size {
+    margin-left: 70px;
+  }
+  .rfproduct-details .product-size select {
+    width: 200px;
+    min-height: 46px;
+    line-height: 46px;
+  }
+  .rfproduct-details .product-size .select {
+    position: relative;
+  }
+  .rfproduct-details .product-size .select:after {
+    min-height: 49px;
+    line-height: 49px;
+    padding: 0 19px;
+  }
+  .rfproduct-details .product-size .product-selectcolor .selectbox {
+    margin-right: 30px;
+  }
+  .rfproduct-details .product-size .product-selectcolor .selectbox span {
+    width: 23px;
+    height: 22px;
+  }
+
+  .rfproduct-details .product-selectcolor .selectbox {
+    height: 43px;
+    width: 43px;
+  }
+  .rfproduct-details .product-selectcolor .selectbox span {
+    width: 33px;
+    height: 32px;
+  }
+
+  .rfbtn {
+    min-height: 56px;
+    line-height: 56px;
+    font-size: 16px;
+    padding: 0 50px;
+  }
+
+  .rfsummary-section .product-item-bottom {
+    height: auto;
+    width: auto;
+    padding: 15px;
+  }
+
+  .rfprice-offer {
+    margin-top: 20px;
+  }
+
+  .video-section {
+    padding-left: 100px;
+  }
+
+  .single-proImg img {
+    max-width: 30px;
+    width: 100%;
+  }
+
+  .product-single-tabs .product-deatils .single-product-deatils {
+    min-height: 162px;
+  }
+  .product-single-tabs .product-deatils .single-product-deatils .single-proImg {
+    height: 66px;
+    width: 66px;
+    line-height: 66px;
+  }
+  .product-single-tabs .product-deatils .single-product-deatils .single-proImg img {
+    max-width: 30px;
+    width: 100%;
+  }
+  .product-single-tabs .product-deatils .single-product-deatils h3 {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #595b67;
+  }
+
+  .cat-section {
+    padding: 60px 0;
+  }
+  .cat-section .cat-content {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+  }
+  .cat-section .rfcatwrp {
+    padding: 0 50px;
+  }
+
+  .team-section {
+    background: #f8f8f8;
+    padding: 90px 0 70px;
+  }
+}
+@media (min-width: 1200px) {
+  .rfnav-wrap ul li {
+    margin-left: 60px;
+  }
+
+  .cat-section {
+    padding: 100px 0;
+  }
+  .cat-section .rfcatwrp {
+    padding: 0 90px;
+  }
+}
+@media (max-width: 991px) {
+  .rfneeded-cards .rfcontact-card {
+    padding: 30px 10px;
+  }
+
+  .warraboutimg {
+    position: relative;
+  }
+  .warraboutimg img {
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  .rfproduct-details {
+    margin-top: 30px;
+  }
+
+  .rfcontent-wrap {
+    margin-bottom: 30px;
+  }
+
+  .rfneeded-cards .rfcontact-card {
+    width: 28%;
+  }
+
+  .rfcontact-card,
+.rfcontact-card {
+    padding: 30px 10px;
+  }
+}
+@media (max-width: 575px) {
+  .rfproduct-details .product-sizedetails {
+    display: block;
+    margin-bottom: 25px;
+  }
+
+  .rfproduct-details .product-price {
+    justify-content: center;
+  }
+
+  .product-selectcolor {
+    margin-bottom: 20px;
+  }
+
+  .product-selectcolor form {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+
+  .rfproduct-details {
+    text-align: center;
+  }
+
+  .rfproduct-details .product-price {
+    text-align: center;
+  }
+
+  .rfproduct-details .product-size .select {
+    position: relative;
+    width: 150px;
+    margin: auto;
+  }
+
+  .rfproduct-details .product-size .select {
+    position: relative;
+    width: 150px;
+  }
+
+  .warrfeaimg {
+    width: 70%;
+    margin: 0 auto 30px;
+  }
+
+  .rfneeded-cards {
+    justify-content: space-between;
+  }
+
+  .product-single-tabs .product-deatils .col-sm-4 {
+    width: 50%;
+  }
+
+  .product-single-tabs .single-product-deatils {
+    margin-bottom: 20px;
+  }
+
+  .rfcontact-card,
+.rfcontact-card {
+    margin-bottom: 20px;
+  }
+
+  .rfprice-offer {
+    display: block;
+  }
+
+  .rfoffer-section .rfoffer-info {
+    padding-left: 0;
+  }
+
+  .rfoffer-section .rfprice-offer .offer-img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .rfprice-offer .rfoffer-info {
+    width: 100%;
+    text-align: center;
+  }
+
+  .rfsizecontent-wrap-even .rfneeded-cards {
+    justify-content: start;
+  }
+
+  .rfsizecontent-wrap-even .rfneeded-cards .rfcontact-card {
+    width: 45%;
+  }
+
+  .rfneeded-cards .rfcontact-card {
+    width: 40%;
+  }
+
+  .mesure-info {
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 450px) {
+  .rfproduct-details .product-sizedetails {
+    display: block;
+  }
+
+  .rfproduct-details .product-size {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+}

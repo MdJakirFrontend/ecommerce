@@ -1,0 +1,82 @@
+@import "variable";
+body {
+    font-family: "Product Sans";
+    font-size: 14px;
+    line-height: 26px;
+    color: #595b67;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+}
+
+.secbg {
+    background-color: #f8f8f8;
+}
+
+/* common btn */
+
+.rfbtn {
+    background-color: $primaryClr;
+    min-height: 40px;
+    line-height: 40px;
+    color: #fff;
+    border-radius: 6px;
+    font-size: 14px;
+    display: inline-block;
+    padding: 0 15px;
+    letter-spacing: 1.312px;
+    border: 1px solid $primaryClr;
+    @include transition();
+    &:focus {
+        outline: none;
+    }
+    &:hover {
+        background-color: transparent;
+        color: $primaryClr;
+    }
+}
+
+//Common section padding
+.section-padding {
+    padding: 100px 0;
+}
+
+.secbg {
+    background-color: #f8f8f8;
+}
+
+/* end common btn */
+
+.owl-nav {
+    button:focus {
+        outline: none;
+    }
+}
+
+/* start common-rfwelcome-section*/
+
+.common-rfwelcome-section {
+    display: flex;
+    align-items: center;
+    min-height: 244px;
+    background: #f8f8f8;
+    .rfwelcome-content {
+        h2 {
+            margin: 0;
+            font-weight: 500;
+            font-size: 36px;
+            line-height: 44px;
+            color: #0e1530;
+            text-align: center;
+        }
+    }
+}
+
+/* End common-rfwelcome-section*/
